@@ -1,4 +1,4 @@
-#About Open Mind Labs
+# About Open Mind Labs
 
 Open Mind Labs is a full-service digital agency that offers web design and development, visual design, and brand identity services. We believe in the power of design to transform businesses and empower them to achieve their goals.
 
